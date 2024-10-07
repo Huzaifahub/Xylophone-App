@@ -19,6 +19,8 @@ Small asset size, minimal dependencies, and a smooth, efficient performance.
 <img width="960" alt="xylophone1" src="https://github.com/user-attachments/assets/445db95e-4223-41ec-9983-c447f2d0aa73">
 <img width="955" alt="x" src="https://github.com/user-attachments/assets/61e85422-f5db-4d19-8508-340191a40a05">
 
+## Video
+https://github.com/user-attachments/assets/7b1ea820-1b88-42d7-8680-dc31b07b1ac3
 
 
 ## 📦 Dependencies
