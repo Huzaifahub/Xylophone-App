@@ -19,8 +19,7 @@ Small asset size, minimal dependencies, and a smooth, efficient performance.
 <img width="960" alt="xylophone1" src="https://github.com/user-attachments/assets/445db95e-4223-41ec-9983-c447f2d0aa73">
 <img width="955" alt="x" src="https://github.com/user-attachments/assets/61e85422-f5db-4d19-8508-340191a40a05">
 
-## vidieo
-![Video Title](path_to_video/reduced_video_smaller.mp4)
+
 
 ## 📦 Dependencies
 This project uses the following dependencies:
