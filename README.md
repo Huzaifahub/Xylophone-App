@@ -20,7 +20,9 @@ Small asset size, minimal dependencies, and a smooth, efficient performance.
 <img width="955" alt="x" src="https://github.com/user-attachments/assets/61e85422-f5db-4d19-8508-340191a40a05">
 
 ## Video
-https://github.com/user-attachments/assets/7b1ea820-1b88-42d7-8680-dc31b07b1ac3
+
+https://github.com/user-attachments/assets/8641a342-1554-40d7-b0b9-9ad01d603b5a
+
 
 
 ## 📦 Dependencies
